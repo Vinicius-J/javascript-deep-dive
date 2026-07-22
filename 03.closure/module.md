@@ -1,0 +1,4 @@
+- [x] Escopo léxico
+- [x] Funções retornando funções
+- [x] Dados privados
+- [x] Closures na prática

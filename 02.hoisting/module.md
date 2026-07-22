@@ -1,0 +1,5 @@
+- [x] Hoisting de var
+- [x] Hoisting de let
+- [x] Hoisting de const
+- [x] Hoisting de funções
+- [x] Temporal Dead Zone

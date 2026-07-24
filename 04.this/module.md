@@ -1,6 +1,6 @@
-- [ ] this em funções comuns
-- [ ] this em métodos
-- [ ] this em Arrow Functions
-- [ ] call
+- [x] this em funções comuns
+- [x] this em métodos
+- [x] this em Arrow Functions
+- [x] call
 - [ ] apply
 - [ ] bind

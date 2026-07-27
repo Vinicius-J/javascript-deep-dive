@@ -2,5 +2,5 @@
 - [x] this em métodos
 - [x] this em Arrow Functions
 - [x] call
-- [ ] apply
-- [ ] bind
+- [x] apply
+- [x] bind

@@ -19,10 +19,21 @@ const p2 = new Person("John", "Doe", 33);
 
 console.log(p1);
 console.log(p1.falar());
-console.log(Object.getPrototypeOf(p1).constructor.name);
+console.log("Prototype:", Object.getPrototypeOf(p1));
+console.log("Constructor:", Object.getPrototypeOf(p1).constructor.name);
 
 console.log();
 
 console.log(p2);
 console.log(p2.falar());
-console.log(Object.getPrototypeOf(p2).constructor.name);
+console.log("Prototype:", Object.getPrototypeOf(p2));
+console.log("Constructor:", Object.getPrototypeOf(p2).constructor.name);
+
+console.log();
+
+class Car {}
+const c1 = new Car();
+
+console.log(c1);
+console.log("Prototype:", Object.getPrototypeOf(c1));
+console.log("Constructor:", Object.getPrototypeOf(c1).constructor.name);

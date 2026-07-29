@@ -1,0 +1,5 @@
+- [x] import
+- [x] export
+- [x] export default
+- [x] módulos ES
+- [x] organização de projetos

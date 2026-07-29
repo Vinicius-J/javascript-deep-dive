@@ -1,0 +1,4 @@
+- [x] [[Prototype]]
+- [x] Cadeia de protótipos (Prototype Chain)
+- [x] Herança prototipal
+- [x] Métodos compartilhados

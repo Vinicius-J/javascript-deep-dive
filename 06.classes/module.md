@@ -1,0 +1,5 @@
+- [x] constructor
+- [x] métodos
+- [x] herança
+- [x] super
+- [x] extends

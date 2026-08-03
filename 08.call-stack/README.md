@@ -1,11 +1,11 @@
 ## Questions
 
-- [ ] O que é Call Stack.
+- [x] O que é Call Stack.
 
-- [ ] Push e Pop da pilha.
+- [x] Push e Pop da pilha.
 
-- [ ] Execução síncrona.
+- [x] Execução síncrona.
 
-- [ ] Stack Overflow.
+- [x] Stack Overflow.
 
-- [ ] Recursão.
+- [x] Recursão.

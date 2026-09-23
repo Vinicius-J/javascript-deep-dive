@@ -1,0 +1,9 @@
+- [x] destructuring
+- [ ] spread/rest
+- [ ] template literals
+- [ ] optional chaining
+- [ ] nullish coalescing
+- [ ] default parameters
+- [ ] modules
+- [ ] ES Modules
+- [ ] CommonJS

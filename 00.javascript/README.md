@@ -1,5 +1,5 @@
 - [x] destructuring
-- [ ] spread/rest
+- [x] spread/rest
 - [ ] template literals
 - [ ] optional chaining
 - [ ] nullish coalescing

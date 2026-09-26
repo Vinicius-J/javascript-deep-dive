@@ -2,7 +2,7 @@
 - [x] spread/rest
 - [x] template literals
 - [x] optional chaining
-- [ ] nullish coalescing
+- [x] nullish coalescing
 - [ ] default parameters
 - [ ] modules
 - [ ] ES Modules

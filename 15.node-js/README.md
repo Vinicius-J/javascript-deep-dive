@@ -2,7 +2,7 @@
 
 - [x] Node.js
 
-- [ ] V8
+- [x] V8
 
 - [ ] Single Thread.
 

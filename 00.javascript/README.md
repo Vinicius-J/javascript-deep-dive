@@ -1,6 +1,6 @@
 - [x] destructuring
 - [x] spread/rest
-- [ ] template literals
+- [x] template literals
 - [ ] optional chaining
 - [ ] nullish coalescing
 - [ ] default parameters

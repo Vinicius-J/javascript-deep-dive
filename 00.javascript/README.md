@@ -3,7 +3,7 @@
 - [x] template literals
 - [x] optional chaining
 - [x] nullish coalescing
-- [ ] default parameters
+- [x] default parameters
 - [ ] modules
 - [ ] ES Modules
 - [ ] CommonJS

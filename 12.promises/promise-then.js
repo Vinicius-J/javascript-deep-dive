@@ -9,14 +9,17 @@ function promise(number) {
   });
 }
 
-const newPromise = promise(6);
+const newPromise = promise(2);
 
-newPromise
-  .then((value) => {
-    console.log(value);
-    return value;
-  })
-  .catch((reason) => {
-    console.log(reason);
-    return reason;
-  });
+newPromise.then(
+  (fulfilled) => {
+    //fulfilled()
+    console.log(fulfilled);
+    return fulfilled;
+  },
+  (rejected) => {
+    // rejected()
+    console.log(rejected);
+    return rejected;
+  },
+);

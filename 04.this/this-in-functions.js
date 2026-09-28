@@ -10,7 +10,7 @@
 function myFunction() {
   return this;
 }
-console.log(myFunction());
+console.log("this - global:", myFunction());
 
 const person = {
   fName: "Vinícius",

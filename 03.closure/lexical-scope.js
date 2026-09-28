@@ -1,5 +1,5 @@
 //* define a acessibilidade de uma variável
-//* uma variável pode apenas ser acessada apenas pelo seu escopo local ou por escopos "filhos"
+//* uma variável pode ser acessada apenas pelo seu escopo local ou por escopos "filhos"
 
 const mensagem = "Escopo Global";
 

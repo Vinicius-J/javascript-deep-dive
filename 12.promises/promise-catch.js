@@ -11,11 +11,11 @@ function promise(number) {
 const newPromise = promise(5);
 
 newPromise
-  .then((value) => {
-    console.log(value);
-    return value;
+  .then((fulfilled) => {
+    console.log(fulfilled);
+    return fulfilled;
   })
-  .catch((reason) => {
-    console.log(reason);
-    return reason;
+  .catch((rejected) => {
+    console.log(rejected);
+    return rejected;
   });

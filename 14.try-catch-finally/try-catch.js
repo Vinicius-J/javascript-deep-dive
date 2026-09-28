@@ -1,6 +1,6 @@
 //* o bloco try é responsável por "tentar" executar um código que possa lançar uma exceção (erro)
 //* o bloco catch é responsável por capturar a exceção (erro) e tratar essa exceção
-//* o bloco finally sempre será executado logo a pós a conclusão do bloco try ou se houver uma exceção logo após o bloco catch
+//* o bloco finally sempre será executado logo após a conclusão do bloco try ou se houver uma exceção logo após o bloco catch
 
 try {
   function sum(a, b) {

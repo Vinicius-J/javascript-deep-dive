@@ -8,8 +8,8 @@ const person = {
 
 //* é possível definir valores padrões no objeto
 //* é possível definir outro nome para a mesma propriedade
-let { firstName: laName, lastName, country = "US" } = person;
-console.log("Object destructuring:", laName + " " + lastName + " " + country);
+let { firstName: faName, lastName, country = "US" } = person;
+console.log("Object destructuring:", faName + " " + lastName + " " + country);
 
 const fruits = ["Bananas", "Oranges", "Apples", "Mangos"];
 

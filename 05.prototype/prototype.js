@@ -1,5 +1,5 @@
 //* [[Prototype]] -> todo objeto possui um link interno chamado [[Prototype]]
-//* prototype é usado para adicionar uma nova propriedade a todos os objetos de um determiado tipo
+//* prototype é usado para adicionar uma nova propriedade a todos os objetos de um determinado tipo
 
 const Person = function (name) {
   this.name = name;

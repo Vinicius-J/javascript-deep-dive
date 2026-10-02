@@ -14,4 +14,4 @@
 
 - [x] CPU Bound.
 
-- [ ] I/O Bound.
+- [x] I/O Bound.

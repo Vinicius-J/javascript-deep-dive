@@ -12,6 +12,6 @@
 
 - [x] Operações I/O.
 
-- [ ] CPU Bound.
+- [x] CPU Bound.
 
 - [ ] I/O Bound.

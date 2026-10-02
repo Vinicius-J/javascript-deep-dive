@@ -4,7 +4,7 @@
 
 - [x] V8
 
-- [ ] Single Thread.
+- [x] Single Thread.
 
 - [ ] Libuv (visão geral).
 

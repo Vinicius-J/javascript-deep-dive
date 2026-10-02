@@ -6,7 +6,7 @@
 
 - [x] Single Thread.
 
-- [ ] Libuv (visão geral).
+- [x] Libuv (visão geral).
 
 - [ ] Thread Pool.
 

@@ -10,7 +10,7 @@
 
 - [x] Thread Pool.
 
-- [ ] Operações I/O.
+- [x] Operações I/O.
 
 - [ ] CPU Bound.
 

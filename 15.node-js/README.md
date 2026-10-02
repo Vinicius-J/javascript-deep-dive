@@ -8,7 +8,7 @@
 
 - [x] Libuv (visão geral).
 
-- [ ] Thread Pool.
+- [x] Thread Pool.
 
 - [ ] Operações I/O.
 
